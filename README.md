@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafayNadeem449
 - 👀 I’m interested in learning Full-Stack Developement
-- 🌱 I’m currently learning Front-End Web Developement 
+- Working as a Front End Engineer.
 
 
 <!---
