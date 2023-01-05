@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @RafayNadeem449
-- 👀 I’m interested in learning Full-Stack Developement
-- Working as a Front End Engineer.
+- 👋 Hi, I’m Rafay Nadeem.
+- I am a SOftware Engineer trying my best to provide value and enhance my Full Stack Developement Skills.
 
 
 <!---
