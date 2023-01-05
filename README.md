@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafay Nadeem.
-- I am a SOftware Engineer trying my best to provide value and enhance my Full Stack Developement Skills.
+- I am a Software Engineer trying my best to provide value and enhance my Full Stack Developement Skills.
 
 
 <!---
